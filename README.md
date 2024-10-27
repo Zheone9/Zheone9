@@ -6,20 +6,26 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150'>
 
-### Welcome to my GitHub profile! 
-<p align="left">Systems Engineering student at Universidad del Cauca, focusing on front-end development, with a keen interest in cloud technologies and open-source contributions.</p>
-
+Welcome to My GitHub Profile! 🌟
+<p align="left"> I’m a dedicated Systems Engineering student at <strong>Universidad del Cauca</strong>, passionate about <strong>front-end development</strong>. My mission is to transform complex ideas into elegant, user-friendly web applications. 🚀</p> 
+<p align="left">Currently honing my skills in <strong>React</strong> and <strong>Angular</strong>, I also explore <strong>cloud technologies</strong> to create scalable solutions.</p> 
+<p align="left"> 💻 As an open-source enthusiast, I love collaborating on meaningful projects and giving back to the community that inspires me.</p> 
+<p align="left">Let’s connect and build something amazing together!</p>
 ---
 
-### About Me:
-- **🎓 Systems Engineering Student** | Universidad del Cauca
-- **💻 Front-End Developer** | Currently learning **React**, **Python**, and exploring **Machine Learning** and **AI**
-- **🌐 Cloud Enthusiast** | Interested in **Google Cloud Platform** and cloud infrastructure fundamentals
-- **📈 Constantly Learning** | Actively engaged in **Open Source**
+### About Me ✨
+
+- **🎓 Systems Engineering Student** | Exploring technology at **Universidad del Cauca**.
+
+- **💻 Front-End Developer** | Crafting interactive web applications with **React** and diving into **Python**, **Machine Learning**, and **AI**.
+
+- **🌐 Cloud Enthusiast** | Passionate about **Google Cloud Platform** and scalable solutions.
+
+- **📈 Lifelong Learner** | Actively contributing to the **Open Source** community and embracing collaboration.
+
+- **💡 Creative Thinker** | Turning challenges into growth opportunities—always ready to innovate!
 
 ---
-
-
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -40,4 +46,4 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 
-Feel free to explore my repositories and connect with me for collaborations in cloud technologies, front-end development, and beyond.
+Feel free to explore my repositories and connect for collaborations in cloud technologies, front-end development, and beyond.
